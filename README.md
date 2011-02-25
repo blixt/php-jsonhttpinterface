@@ -11,7 +11,7 @@ returning the result JSON encoded.
 Assume this is **myservice.php**:
 
     <?php
-    require('jsonhttpinterface.php');
+    require('JsonHttpInterface.php');
 
     class MyService {
         function add($a, $b) {
